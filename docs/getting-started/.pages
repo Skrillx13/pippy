@@ -1,0 +1,4 @@
+# -- Folder Navigation --
+nav:
+  - Quickstart: quickstart.md
+  - Installation: installation.md

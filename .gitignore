@@ -1,0 +1,6 @@
+# -- Python Packages --
+venv/
+
+# -- Misc --
+.vscode
+**/.DS_Store
