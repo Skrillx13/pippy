@@ -2,4 +2,7 @@
 nav:
   - Home:
     - index.md
+    - Community: community
   - Getting Started: getting-started
+  - Reference: reference
+  - Blog: blog

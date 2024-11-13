@@ -1,0 +1,4 @@
+# -- Folder Navigation --
+nav:
+  - Contributing: contributing.md
+  - Contributing to the docs: contributing-docs.md

@@ -51,3 +51,17 @@ Pippy's logic is that package management should be simple, but still helpful and
     [:octicons-arrow-right-24: License](#)
 
 </div>
+
+## Support us!
+
+Coding is no easy job. In fact, we, the creators of Pippy have spent about 4+ months working on this project, to get it to where it is today. And that isn't even including the documentation, bug fixing, and issue answering we had to do.
+
+What we are trying to say is, if you are using this project, and enjoyed it, please make a donation! We appreciate any support we get.
+
+- :material-cash: [Link to our Ko-Fi](https://youtu.be/xvFZjo5PgG0?si=60lS8wgxL7CVYSwr)
+
+## Project Implmentation
+
+Implementation notes:
+
+- V1.0: A bug has occured where it turns out Pippy is incompatible with uv, another Python package manager. Fixing this right now.
