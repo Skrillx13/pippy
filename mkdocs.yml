@@ -6,7 +6,7 @@ site_description: >-
   It's just like pip, but slightly better.
 
 # -- GitHub Repository --
-repo_name: skrillx13/pippy
+repo_name: Pippy Project @ GitHub
 repo_url: https://github.com/Skrillx13/Pippy
 
 # -- Project Copyright --
@@ -15,6 +15,7 @@ copyright: Copyright &copy; 2024, <a class="cauthor" href="https://skrillx13.io"
 # -- Theme Configuration --
 theme:
   name: material
+  custom_dir: overrides
   features:
     - announce.dismiss
     - content.action.edit
@@ -118,15 +119,13 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/squidfunk
+      link: https://github.com/Skrillx13/Pippy
     - icon: fontawesome/brands/docker
-      link: https://hub.docker.com/r/squidfunk/mkdocs-material/
+      link: https://hub.docker.com/r/paketobuildpacks/pipenv
     - icon: fontawesome/brands/python
-      link: https://pypi.org/project/mkdocs-material/
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk
+      link: https://pypi.org/project/pippy/
     - icon: fontawesome/brands/x-twitter
-      link: https://x.com/squidfunk
+      link: https://x.com/Skrillx_13
 extra_css:
   - assets/stylesheets/styles.css
 extra_javascript:

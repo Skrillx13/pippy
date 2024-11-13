@@ -1,4 +1,5 @@
 # -- Folder Navigation --
 nav:
-  - Quickstart: quickstart.md
   - Installation: installation.md
+  - First Steps: first-steps.md
+  - Key Concepts: concepts.md
